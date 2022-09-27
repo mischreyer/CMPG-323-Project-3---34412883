@@ -7,6 +7,8 @@ Web App
 The application is used to manage IOT devices in a manner that implements repository patern.
 Devices, Categories and Zones can easily be manipulated by using the web application interface.
 
+Code and implementation can be found under master branch.
+
 #### Reference list:
 https://stackoverflow.com/questions/30066247/updating-records-using-a-repository-pattern-with-entity-framework-6
 
